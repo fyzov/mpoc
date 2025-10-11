@@ -1,2 +1,2 @@
 # mpoc
-mini prodjects on c programming language
+mini projects on c programming language
